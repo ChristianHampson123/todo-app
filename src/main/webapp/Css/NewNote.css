@@ -1,0 +1,48 @@
+body {
+    background-image:url("https://image.freepik.com/free-photo/untidy-stack-various-different-colors-sticky-post-notes-pinned-isolated-white_1101-1403.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+ }
+
+.title{
+    position: absolute;
+    left: 370px;
+    top: 250px;
+}
+.des{
+    position: absolute;
+    left: 370px;
+    top: 300px;
+}
+.edit{
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+.editdes{
+    position: absolute;
+    left: 450px;
+    top: 300px;
+}
+.ertitle{
+    position: absolute;
+    left: 650px;
+    top: 250px;
+}
+.erdes{
+    position: absolute;
+    margin-left: 650px;
+    margin-top: 270px;
+}
+.bCancel{
+    position: absolute;
+    left: 770px;
+    top: 600px;
+}
+.bSubmit{
+    position: absolute;
+    margin-left: 770px;
+    margin-top: 520px;
+}
+
